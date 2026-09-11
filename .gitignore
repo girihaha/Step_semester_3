@@ -27,3 +27,5 @@ out/
 ### macOS / Windows OS files ###
 .DS_Store
 Thumbs.db
+
+session_*/
